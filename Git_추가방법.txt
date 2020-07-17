@@ -1,0 +1,4 @@
+nhlee:
+ssh://nhlee@nas.oss-hands.com:10023/volume1/GitHome/hw/Altium_lib_cowork
+yhseong
+ssh://yhseong@nas.oss-hands.com:10023/volume1/GitHome/hw/Altium_lib_cowork
