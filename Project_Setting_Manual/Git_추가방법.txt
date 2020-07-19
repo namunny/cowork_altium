@@ -3,7 +3,5 @@ ssh://nhlee@nas.oss-hands.com:10023/volume1/GitHome/hw/Altium_lib_cowork.git
 yhseong
 ssh://yhseong@nas.oss-hands.com:10023/volume1/GitHome/hw/Altium_lib_cowork.git
 
-
 //////////////////////////////////////
 https://github.com/namunny/cowork_altium.git
-git@github.com:namunny/cowork_altium.git
